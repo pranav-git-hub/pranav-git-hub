@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pranav-git-hub
+- 👋 Hi there.
 - 👀 I’m interested in Data Science.
 - 💞️ I’m looking to collaborate on any Data Science, Machine Learning, Data Analysis related projects.
 
